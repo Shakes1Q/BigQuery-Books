@@ -10,6 +10,8 @@ Some of the questions that were answered are;
 6. What is the distribution of star ratings across all books?
 7. What is the total value of all books in stock?
    
+--The Charts were analyze and visualize using Tableau
+
 Attached below are some of the charts derive from the queries
 
 ![Screenshot 2025-01-12 222745](https://github.com/user-attachments/assets/2aa534f9-3a49-4f1f-9730-19ec172cc69a)
