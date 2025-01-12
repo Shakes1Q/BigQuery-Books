@@ -10,7 +10,7 @@ Some of the questions that were answered are;
 6. What is the distribution of star ratings across all books?
 7. What is the total value of all books in stock?
    
---The Charts were analyze and visualize using Tableau
+--The Charts were analyze and visualize using Tableau (https://public.tableau.com/app/profile/frank.kwam5091/viz/Denture_Books/Dashboard1)
 
 Attached below are some of the charts derive from the queries
 
